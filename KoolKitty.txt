@@ -1,1 +1,5 @@
 hello git.
+
+some text
+
+more text and remove 'extra'
